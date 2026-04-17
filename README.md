@@ -1,2 +1,5 @@
-# ashi127.github.io
-Our objective is to provide Netflix with insights into the optimal allocation of resources for expanding its catalog of older movies from the years 2012 to 2016.
+# About Me
+
+**Programming Languages:** SQL(MySQL, SQL Server), Python(Pandas, Matplotlib, Seaborn), R
+
+**Visualization Tools:** Power BI, Tableau
